@@ -42,7 +42,7 @@ Connect your Android device via USB or start an Android emulator. Make sure the 
 npx react-native run-android
 ```
 ### 6. Usage
- **1. Select Data Collection Mode**: Choose between periodic data collection or continuous data collection.
+ **1. Select Data Collection Mode**: Choose between periodic data collection or continuous data collection.                                                                                                                                             
    **2.Start Data Collection**: Tap the 'Start Logging' button to begin collecting IMU sensor data.
    **3.End Session**: Tap the 'Stop Logging' button to end the data collection session.
    **4.Access Log Files**: The log files will be saved in the local file manager of your device. You can export these files for further analysis.
